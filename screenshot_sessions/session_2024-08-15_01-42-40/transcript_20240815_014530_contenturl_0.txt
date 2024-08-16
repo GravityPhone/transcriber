@@ -1,0 +1,13 @@
+Speaker 1 (PT0.72S): And now it's recording and screenshot sessions over here and when I hit control C so it'll the frequency of.
+Speaker 2 (PT17.52S): You the frequency of you taking screenshots?
+Speaker 2 (PT19.36S): Is that a variable somewhere?
+Speaker 1 (PT20.56S): It is.
+Speaker 1 (PT20.96S): It is.
+Speaker 1 (PT22.64S): It's just 10 seconds.
+Speaker 1 (PT24.24S): That was a somewhere where I didn't have a good solution.
+Speaker 2 (PT28.64S): Let's turn that way up for our testing purposes.
+Speaker 2 (PT32.84S): Like, sure, 10 every 10 seconds eventually, you know what I mean?
+Speaker 2 (PT38.4S): But maybe 3040 seconds?
+Speaker 1 (PT41.76S): Oh, OK.
+Speaker 2 (PT44.24S): And I'll tell you why.
+Speaker 2 (PT45.04S): It's just because we want to be able to look at data on our API, see if GPT is recognizing it.

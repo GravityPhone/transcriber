@@ -1,0 +1,8 @@
+{
+  "source": "https://daytranscriber.blob.core.windows.net/audio-recordings/output.wav?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-08-16T16%3A53%3A42Z&st=2024-08-10T08%3A53%3A42Z&spr=https%2Chttp&sig=Pttd6BmGyCFm%2FRx1rQ5dtdtFjY%2BUFWmkgsnR5zVPzK8%3D",
+  "timestamp": "2024-08-15T06:12:05Z",
+  "durationInTicks": 481700000,
+  "duration": "PT48.17S",
+  "combinedRecognizedPhrases": [],
+  "recognizedPhrases": []
+}

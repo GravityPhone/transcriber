@@ -17,6 +17,7 @@ from datetime import datetime
 import threading
 from screenshotter import create_session_folder, select_monitors, take_screenshot
 from jsonreader import process_json_files
+from sendtoapi import send_to_api
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG,
         format="%(asctime)s %(message)s", datefmt="%m/%d/%Y %I:%M:%S %p %Z")
@@ -278,12 +279,23 @@ if __name__ == "__main__":
             logging.info(f"Audio file uploaded. URI: {blob_uri}")
             transcribe(blob_uri, max_speakers)
             
-            # Process JSON files and save transcriptions to screenshot folder
-            process_json_files("transcription_results", screenshot_session_folder)
+            # Process the most recent JSON file and get the transcript
+            latest_transcript = process_json_files("transcription_results", screenshot_session_folder)
+            
+            # Send the latest transcript to the API
+            if latest_transcript:
+                bot_id = "1723700417755x586654339331260400"
+                api_response = send_to_api(latest_transcript, bot_id)
+                if api_response:
+                    logging.info(f"API Response: {api_response}")
+                else:
+                    logging.warning("Failed to send data to API")
+            else:
+                logging.warning("No transcript file was created.")
         except Exception as e:
             logging.error(f"An error occurred during transcription process: {e}")
             logging.exception("Exception details:")
     else:
         logging.error("No audio file recorded. Exiting.")
 
-    print("Screenshot capture, audio recording, and transcription processing completed.")
+    print("Screenshot capture, audio recording, transcription processing, and API submission completed.")

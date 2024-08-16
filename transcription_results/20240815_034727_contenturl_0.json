@@ -1,0 +1,293 @@
+{
+  "source": "https://daytranscriber.blob.core.windows.net/audio-recordings/output.wav?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-08-16T16%3A53%3A42Z&st=2024-08-10T08%3A53%3A42Z&spr=https%2Chttp&sig=Pttd6BmGyCFm%2FRx1rQ5dtdtFjY%2BUFWmkgsnR5zVPzK8%3D",
+  "timestamp": "2024-08-15T07:47:20Z",
+  "durationInTicks": 55900000,
+  "duration": "PT5.59S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "hey how are you let's go uh this is going to be a test",
+      "itn": "hey how are you let's go uh this is going to be a test",
+      "maskedITN": "Hey how are you Let's go Uh, this is going to be a test.",
+      "display": "Hey, how are you? Let's go. Uh, this is going to be a test."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.52S",
+      "duration": "PT1S",
+      "offsetInTicks": 5200000.0,
+      "durationInTicks": 10000000.0,
+      "nBest": [
+        {
+          "confidence": 0.9708859,
+          "lexical": "hey how are you",
+          "itn": "hey how are you",
+          "maskedITN": "Hey how are you",
+          "display": "Hey, how are you?",
+          "words": [
+            {
+              "word": "hey",
+              "offset": "PT0.52S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 5200000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.95165807
+            },
+            {
+              "word": "how",
+              "offset": "PT0.96S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 9600000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.98065305
+            },
+            {
+              "word": "are",
+              "offset": "PT1.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 11600000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9728865
+            },
+            {
+              "word": "you",
+              "offset": "PT1.28S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 12800000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.97834593
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Hey,",
+              "offset": "PT0.52S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 5200000.0,
+              "durationInTicks": 4400000.0
+            },
+            {
+              "displayText": "how",
+              "offset": "PT0.96S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 9600000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "are",
+              "offset": "PT1.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 11600000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "you?",
+              "offset": "PT1.28S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 12800000.0,
+              "durationInTicks": 2400000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.8S",
+      "duration": "PT1.04S",
+      "offsetInTicks": 18000000.0,
+      "durationInTicks": 10400000.0,
+      "nBest": [
+        {
+          "confidence": 0.9757093,
+          "lexical": "let's go",
+          "itn": "let's go",
+          "maskedITN": "Let's go",
+          "display": "Let's go.",
+          "words": [
+            {
+              "word": "let's",
+              "offset": "PT1.8S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 18000000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.9738496
+            },
+            {
+              "word": "go",
+              "offset": "PT2.16S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 21600000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.97756904
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Let's",
+              "offset": "PT1.8S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 18000000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "displayText": "go.",
+              "offset": "PT2.16S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 21600000.0,
+              "durationInTicks": 6800000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT3.24S",
+      "duration": "PT1.8S",
+      "offsetInTicks": 32400000.0,
+      "durationInTicks": 18000000.0,
+      "nBest": [
+        {
+          "confidence": 0.6203585,
+          "lexical": "uh this is going to be a test",
+          "itn": "uh this is going to be a test",
+          "maskedITN": "Uh, this is going to be a test.",
+          "display": "Uh, this is going to be a test.",
+          "words": [
+            {
+              "word": "uh",
+              "offset": "PT3.24S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 32400000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.22959413
+            },
+            {
+              "word": "this",
+              "offset": "PT3.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 39200000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.9632052
+            },
+            {
+              "word": "is",
+              "offset": "PT4.12S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 41200000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.7266381
+            },
+            {
+              "word": "going",
+              "offset": "PT4.2S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 42000000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.20314375
+            },
+            {
+              "word": "to",
+              "offset": "PT4.36S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 43600000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.2671378
+            },
+            {
+              "word": "be",
+              "offset": "PT4.44S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 44400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9664533
+            },
+            {
+              "word": "a",
+              "offset": "PT4.56S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 45600000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.6431431
+            },
+            {
+              "word": "test",
+              "offset": "PT4.6S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 46000000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.9635527
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Uh,",
+              "offset": "PT3.24S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 32400000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "this",
+              "offset": "PT3.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 39200000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "is",
+              "offset": "PT4.12S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 41200000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "going",
+              "offset": "PT4.2S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 42000000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "to",
+              "offset": "PT4.36S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 43600000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "be",
+              "offset": "PT4.44S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 44400000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "a",
+              "offset": "PT4.56S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 45600000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "test.",
+              "offset": "PT4.6S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 46000000.0,
+              "durationInTicks": 4400000.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "source": "https://daytranscriber.blob.core.windows.net/audio-recordings/output.wav?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-08-16T16%3A53%3A42Z&st=2024-08-10T08%3A53%3A42Z&spr=https%2Chttp&sig=Pttd6BmGyCFm%2FRx1rQ5dtdtFjY%2BUFWmkgsnR5zVPzK8%3D",
+  "timestamp": "2024-08-15T07:33:42Z",
+  "durationInTicks": 135100000,
+  "duration": "PT13.51S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "hello hi hello hi hello hello hello and hi hello hi hello hello",
+      "itn": "hello hi hello hi hello hello hello and hi hello hi hello hello",
+      "maskedITN": "Hello, hi, hello, hi, hello, hello, hello and hi, hello, hi, hello, hello.",
+      "display": "Hello, hi, hello, hi, hello, hello, hello and hi, hello, hi, hello, hello."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.52S",
+      "duration": "PT11.6S",
+      "offsetInTicks": 15200000.0,
+      "durationInTicks": 116000000.0,
+      "nBest": [
+        {
+          "confidence": 0.8406972,
+          "lexical": "hello hi hello hi hello hello hello and hi hello hi hello hello",
+          "itn": "hello hi hello hi hello hello hello and hi hello hi hello hello",
+          "maskedITN": "Hello, hi, hello, hi, hello, hello, hello and hi, hello, hi, hello, hello.",
+          "display": "Hello, hi, hello, hi, hello, hello, hello and hi, hello, hi, hello, hello.",
+          "words": [
+            {
+              "word": "hello",
+              "offset": "PT1.52S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 15200000.0,
+              "durationInTicks": 6000000.0,
+              "confidence": 0.80395406
+            },
+            {
+              "word": "hi",
+              "offset": "PT2.12S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 21200000.0,
+              "durationInTicks": 6400000.0,
+              "confidence": 0.8187092
+            },
+            {
+              "word": "hello",
+              "offset": "PT2.76S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 27600000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.91430527
+            },
+            {
+              "word": "hi",
+              "offset": "PT3.44S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 34400000.0,
+              "durationInTicks": 6000000.0,
+              "confidence": 0.8863605
+            },
+            {
+              "word": "hello",
+              "offset": "PT4.2S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 42000000.0,
+              "durationInTicks": 5600000.0,
+              "confidence": 0.97231376
+            },
+            {
+              "word": "hello",
+              "offset": "PT4.76S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 47600000.0,
+              "durationInTicks": 5600000.0,
+              "confidence": 0.9687205
+            },
+            {
+              "word": "hello",
+              "offset": "PT5.32S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 53200000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.8443931
+            },
+            {
+              "word": "and",
+              "offset": "PT5.84S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 58400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.85371363
+            },
+            {
+              "word": "hi",
+              "offset": "PT6.08S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 60800000.0,
+              "durationInTicks": 6000000.0,
+              "confidence": 0.6579879
+            },
+            {
+              "word": "hello",
+              "offset": "PT10.36S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 103600000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.81198704
+            },
+            {
+              "word": "hi",
+              "offset": "PT11.84S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 118400000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.7447787
+            },
+            {
+              "word": "hello",
+              "offset": "PT12.32S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 123200000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.9257564
+            },
+            {
+              "word": "hello",
+              "offset": "PT12.64S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 126400000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.7260839
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Hello,",
+              "offset": "PT1.52S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 15200000.0,
+              "durationInTicks": 6000000.0
+            },
+            {
+              "displayText": "hi,",
+              "offset": "PT2.12S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 21200000.0,
+              "durationInTicks": 6400000.0
+            },
+            {
+              "displayText": "hello,",
+              "offset": "PT2.76S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 27600000.0,
+              "durationInTicks": 6800000.0
+            },
+            {
+              "displayText": "hi,",
+              "offset": "PT3.44S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 34400000.0,
+              "durationInTicks": 6000000.0
+            },
+            {
+              "displayText": "hello,",
+              "offset": "PT4.2S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 42000000.0,
+              "durationInTicks": 5600000.0
+            },
+            {
+              "displayText": "hello,",
+              "offset": "PT4.76S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 47600000.0,
+              "durationInTicks": 5600000.0
+            },
+            {
+              "displayText": "hello",
+              "offset": "PT5.32S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 53200000.0,
+              "durationInTicks": 5200000.0
+            },
+            {
+              "displayText": "and",
+              "offset": "PT5.84S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 58400000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "hi,",
+              "offset": "PT6.08S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 60800000.0,
+              "durationInTicks": 6000000.0
+            },
+            {
+              "displayText": "hello,",
+              "offset": "PT10.36S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 103600000.0,
+              "durationInTicks": 5200000.0
+            },
+            {
+              "displayText": "hi,",
+              "offset": "PT11.84S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 118400000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "hello,",
+              "offset": "PT12.32S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 123200000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "hello.",
+              "offset": "PT12.64S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 126400000.0,
+              "durationInTicks": 4800000.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

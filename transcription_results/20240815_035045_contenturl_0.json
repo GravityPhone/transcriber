@@ -1,0 +1,443 @@
+{
+  "source": "https://daytranscriber.blob.core.windows.net/audio-recordings/output.wav?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-08-16T16%3A53%3A42Z&st=2024-08-10T08%3A53%3A42Z&spr=https%2Chttp&sig=Pttd6BmGyCFm%2FRx1rQ5dtdtFjY%2BUFWmkgsnR5zVPzK8%3D",
+  "timestamp": "2024-08-15T07:50:30Z",
+  "durationInTicks": 189600000,
+  "duration": "PT18.96S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "hello hello hello hello hi and this is a test and i'm gonna talk about vaping and cigarette smoking and the difference between them",
+      "itn": "hello hello hello hello hi and this is a test and i'm gonna talk about vaping and cigarette smoking and the difference between them",
+      "maskedITN": "Hello hello hello hello Hi And this is a test and I'm gonna talk about vaping and cigarette smoking and the difference between them",
+      "display": "Hello, hello, hello, hello. Hi. And this is a test, and I'm gonna talk about vaping and cigarette smoking and the difference between them."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.36S",
+      "duration": "PT2.76S",
+      "offsetInTicks": 13600000.0,
+      "durationInTicks": 27600000.0,
+      "nBest": [
+        {
+          "confidence": 0.94485116,
+          "lexical": "hello hello hello hello",
+          "itn": "hello hello hello hello",
+          "maskedITN": "Hello hello hello hello",
+          "display": "Hello, hello, hello, hello.",
+          "words": [
+            {
+              "word": "hello",
+              "offset": "PT1.36S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 13600000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.88072085
+            },
+            {
+              "word": "hello",
+              "offset": "PT2.28S",
+              "duration": "PT0.72S",
+              "offsetInTicks": 22800000.0,
+              "durationInTicks": 7200000.0,
+              "confidence": 0.9703236
+            },
+            {
+              "word": "hello",
+              "offset": "PT3S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 30000000.0,
+              "durationInTicks": 5600000.0,
+              "confidence": 0.97149146
+            },
+            {
+              "word": "hello",
+              "offset": "PT3.56S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 35600000.0,
+              "durationInTicks": 5600000.0,
+              "confidence": 0.9568688
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Hello,",
+              "offset": "PT1.36S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 13600000.0,
+              "durationInTicks": 6800000.0
+            },
+            {
+              "displayText": "hello,",
+              "offset": "PT2.28S",
+              "duration": "PT0.72S",
+              "offsetInTicks": 22800000.0,
+              "durationInTicks": 7200000.0
+            },
+            {
+              "displayText": "hello,",
+              "offset": "PT3S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 30000000.0,
+              "durationInTicks": 5600000.0
+            },
+            {
+              "displayText": "hello.",
+              "offset": "PT3.56S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 35600000.0,
+              "durationInTicks": 5600000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.6S",
+      "duration": "PT0.6S",
+      "offsetInTicks": 56000000.0,
+      "durationInTicks": 6000000.0,
+      "nBest": [
+        {
+          "confidence": 0.8104104,
+          "lexical": "hi",
+          "itn": "hi",
+          "maskedITN": "Hi",
+          "display": "Hi.",
+          "words": [
+            {
+              "word": "hi",
+              "offset": "PT5.6S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 56000000.0,
+              "durationInTicks": 6000000.0,
+              "confidence": 0.8104104
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Hi.",
+              "offset": "PT5.6S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 56000000.0,
+              "durationInTicks": 6000000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT6.44S",
+      "duration": "PT10.04S",
+      "offsetInTicks": 64400000.0,
+      "durationInTicks": 100400000.0,
+      "nBest": [
+        {
+          "confidence": 0.8906963,
+          "lexical": "and this is a test and i'm gonna talk about vaping and cigarette smoking and the difference between them",
+          "itn": "and this is a test and i'm gonna talk about vaping and cigarette smoking and the difference between them",
+          "maskedITN": "And this is a test and I'm gonna talk about vaping and cigarette smoking and the difference between them",
+          "display": "And this is a test, and I'm gonna talk about vaping and cigarette smoking and the difference between them.",
+          "words": [
+            {
+              "word": "and",
+              "offset": "PT6.44S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 64400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.9097241
+            },
+            {
+              "word": "this",
+              "offset": "PT6.68S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 66800000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.97569263
+            },
+            {
+              "word": "is",
+              "offset": "PT6.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 69200000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.93623966
+            },
+            {
+              "word": "a",
+              "offset": "PT7.08S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 70800000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.8617418
+            },
+            {
+              "word": "test",
+              "offset": "PT7.12S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 71200000.0,
+              "durationInTicks": 6000000.0,
+              "confidence": 0.7539667
+            },
+            {
+              "word": "and",
+              "offset": "PT7.8S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 78000000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.94069654
+            },
+            {
+              "word": "i'm",
+              "offset": "PT7.96S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 79600000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.97402376
+            },
+            {
+              "word": "gonna",
+              "offset": "PT8.08S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 80800000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.3564741
+            },
+            {
+              "word": "talk",
+              "offset": "PT8.32S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 83200000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.69445664
+            },
+            {
+              "word": "about",
+              "offset": "PT8.64S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 86400000.0,
+              "durationInTicks": 5600000.0,
+              "confidence": 0.9800135
+            },
+            {
+              "word": "vaping",
+              "offset": "PT10.96S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 109600000.0,
+              "durationInTicks": 6000000.0,
+              "confidence": 0.8271066
+            },
+            {
+              "word": "and",
+              "offset": "PT12.64S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 126400000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.97854716
+            },
+            {
+              "word": "cigarette",
+              "offset": "PT13.08S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 130800000.0,
+              "durationInTicks": 6400000.0,
+              "confidence": 0.9431239
+            },
+            {
+              "word": "smoking",
+              "offset": "PT13.72S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 137200000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.9324738
+            },
+            {
+              "word": "and",
+              "offset": "PT15.04S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 150400000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.97977394
+            },
+            {
+              "word": "the",
+              "offset": "PT15.24S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 152400000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.9799442
+            },
+            {
+              "word": "difference",
+              "offset": "PT15.32S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 153200000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9560905
+            },
+            {
+              "word": "between",
+              "offset": "PT15.8S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 158000000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.97224504
+            },
+            {
+              "word": "them",
+              "offset": "PT16.2S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 162000000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.9708944
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "And",
+              "offset": "PT6.44S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 64400000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "this",
+              "offset": "PT6.68S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 66800000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "is",
+              "offset": "PT6.92S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 69200000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "a",
+              "offset": "PT7.08S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 70800000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "test,",
+              "offset": "PT7.12S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 71200000.0,
+              "durationInTicks": 6000000.0
+            },
+            {
+              "displayText": "and",
+              "offset": "PT7.8S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 78000000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "I'm",
+              "offset": "PT7.96S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 79600000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "gonna",
+              "offset": "PT8.08S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 80800000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "talk",
+              "offset": "PT8.32S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 83200000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "about",
+              "offset": "PT8.64S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 86400000.0,
+              "durationInTicks": 5600000.0
+            },
+            {
+              "displayText": "vaping",
+              "offset": "PT10.96S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 109600000.0,
+              "durationInTicks": 6000000.0
+            },
+            {
+              "displayText": "and",
+              "offset": "PT12.64S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 126400000.0,
+              "durationInTicks": 4400000.0
+            },
+            {
+              "displayText": "cigarette",
+              "offset": "PT13.08S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 130800000.0,
+              "durationInTicks": 6400000.0
+            },
+            {
+              "displayText": "smoking",
+              "offset": "PT13.72S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 137200000.0,
+              "durationInTicks": 6800000.0
+            },
+            {
+              "displayText": "and",
+              "offset": "PT15.04S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 150400000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "the",
+              "offset": "PT15.24S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 152400000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "difference",
+              "offset": "PT15.32S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 153200000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "between",
+              "offset": "PT15.8S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 158000000.0,
+              "durationInTicks": 4000000.0
+            },
+            {
+              "displayText": "them.",
+              "offset": "PT16.2S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 162000000.0,
+              "durationInTicks": 2800000.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

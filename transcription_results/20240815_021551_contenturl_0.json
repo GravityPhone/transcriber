@@ -1,0 +1,638 @@
+{
+  "source": "https://daytranscriber.blob.core.windows.net/audio-recordings/output.wav?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-08-16T16%3A53%3A42Z&st=2024-08-10T08%3A53%3A42Z&spr=https%2Chttp&sig=Pttd6BmGyCFm%2FRx1rQ5dtdtFjY%2BUFWmkgsnR5zVPzK8%3D",
+  "timestamp": "2024-08-15T06:15:30Z",
+  "durationInTicks": 166400000,
+  "duration": "PT16.64S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "check i'm talking we are talking on the on the test thing i've done such an unbelievable amount of talking to a microphone for testing AI to if you want to talk about talking into the void",
+      "itn": "check i'm talking we are talking on the on the test thing i've done such an unbelievable amount of talking to a microphone for testing AI to if you want to talk about talking into the void",
+      "maskedITN": "Check I'm talking we are talking on the on the test thing I've done such an unbelievable amount of talking to a microphone for testing AI to if you want to talk about talking into the void",
+      "display": "Check. I'm talking we are talking on the on the test thing. I've done such an unbelievable amount of talking to a microphone for testing AI to if you want to talk about talking into the void."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.2S",
+      "duration": "PT0.36S",
+      "offsetInTicks": 12000000.0,
+      "durationInTicks": 3600000.0,
+      "nBest": [
+        {
+          "confidence": 0.51885843,
+          "lexical": "check",
+          "itn": "check",
+          "maskedITN": "Check",
+          "display": "Check.",
+          "words": [
+            {
+              "word": "check",
+              "offset": "PT1.2S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 12000000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.51885843
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Check.",
+              "offset": "PT1.2S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 12000000.0,
+              "durationInTicks": 3600000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.72S",
+      "duration": "PT3.4S",
+      "offsetInTicks": 17200000.0,
+      "durationInTicks": 34000000.0,
+      "nBest": [
+        {
+          "confidence": 0.795518,
+          "lexical": "i'm talking we are talking on the on the test thing",
+          "itn": "i'm talking we are talking on the on the test thing",
+          "maskedITN": "I'm talking we are talking on the on the test thing",
+          "display": "I'm talking we are talking on the on the test thing.",
+          "words": [
+            {
+              "word": "i'm",
+              "offset": "PT1.72S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 17200000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.86099017
+            },
+            {
+              "word": "talking",
+              "offset": "PT1.92S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 19200000.0,
+              "durationInTicks": 6400000.0,
+              "confidence": 0.96510935
+            },
+            {
+              "word": "we",
+              "offset": "PT2.56S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 25600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.33175558
+            },
+            {
+              "word": "are",
+              "offset": "PT2.84S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 28400000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.27405787
+            },
+            {
+              "word": "talking",
+              "offset": "PT2.92S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 29200000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9781879
+            },
+            {
+              "word": "on",
+              "offset": "PT3.4S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 34000000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.9683696
+            },
+            {
+              "word": "the",
+              "offset": "PT3.6S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 36000000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.90206885
+            },
+            {
+              "word": "on",
+              "offset": "PT4.08S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 40800000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.929216
+            },
+            {
+              "word": "the",
+              "offset": "PT4.24S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 42400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9781838
+            },
+            {
+              "word": "test",
+              "offset": "PT4.36S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 43600000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.700481
+            },
+            {
+              "word": "thing",
+              "offset": "PT4.72S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 47200000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.8622774
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "I'm",
+              "offset": "PT1.72S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 17200000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "talking",
+              "offset": "PT1.92S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 19200000.0,
+              "durationInTicks": 6400000.0
+            },
+            {
+              "displayText": "we",
+              "offset": "PT2.56S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 25600000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "are",
+              "offset": "PT2.84S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 28400000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "talking",
+              "offset": "PT2.92S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 29200000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "on",
+              "offset": "PT3.4S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 34000000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "the",
+              "offset": "PT3.6S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 36000000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "on",
+              "offset": "PT4.08S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 40800000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "the",
+              "offset": "PT4.24S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 42400000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "test",
+              "offset": "PT4.36S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 43600000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "displayText": "thing.",
+              "offset": "PT4.72S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 47200000.0,
+              "durationInTicks": 4000000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT6.44S",
+      "duration": "PT9.08S",
+      "offsetInTicks": 64400000.0,
+      "durationInTicks": 90800000.0,
+      "nBest": [
+        {
+          "confidence": 0.84931725,
+          "lexical": "i've done such an unbelievable amount of talking to a microphone for testing AI to if you want to talk about talking into the void",
+          "itn": "i've done such an unbelievable amount of talking to a microphone for testing AI to if you want to talk about talking into the void",
+          "maskedITN": "I've done such an unbelievable amount of talking to a microphone for testing AI to if you want to talk about talking into the void",
+          "display": "I've done such an unbelievable amount of talking to a microphone for testing AI to if you want to talk about talking into the void.",
+          "words": [
+            {
+              "word": "i've",
+              "offset": "PT6.44S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 64400000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.94199204
+            },
+            {
+              "word": "done",
+              "offset": "PT6.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 66400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.924901
+            },
+            {
+              "word": "such",
+              "offset": "PT6.88S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 68800000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.9674306
+            },
+            {
+              "word": "an",
+              "offset": "PT7.16S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 71600000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.97526246
+            },
+            {
+              "word": "unbelievable",
+              "offset": "PT7.32S",
+              "duration": "PT1S",
+              "offsetInTicks": 73200000.0,
+              "durationInTicks": 10000000.0,
+              "confidence": 0.95027816
+            },
+            {
+              "word": "amount",
+              "offset": "PT8.32S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 83200000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9601453
+            },
+            {
+              "word": "of",
+              "offset": "PT8.8S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 88000000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.9741563
+            },
+            {
+              "word": "talking",
+              "offset": "PT9.04S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 90400000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.9627512
+            },
+            {
+              "word": "to",
+              "offset": "PT9.56S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 95600000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.97651833
+            },
+            {
+              "word": "a",
+              "offset": "PT9.72S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 97200000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.86831975
+            },
+            {
+              "word": "microphone",
+              "offset": "PT9.76S",
+              "duration": "PT0.84S",
+              "offsetInTicks": 97600000.0,
+              "durationInTicks": 8400000.0,
+              "confidence": 0.96920973
+            },
+            {
+              "word": "for",
+              "offset": "PT10.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 106400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.9799595
+            },
+            {
+              "word": "testing",
+              "offset": "PT10.88S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 108800000.0,
+              "durationInTicks": 5600000.0,
+              "confidence": 0.9590614
+            },
+            {
+              "word": "AI",
+              "offset": "PT11.52S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 115200000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.87453663
+            },
+            {
+              "word": "to",
+              "offset": "PT12.48S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 124800000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.5662608
+            },
+            {
+              "word": "if",
+              "offset": "PT13.2S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 132000000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.33854067
+            },
+            {
+              "word": "you",
+              "offset": "PT13.44S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 134400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.74965
+            },
+            {
+              "word": "want",
+              "offset": "PT13.64S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 136400000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.49291712
+            },
+            {
+              "word": "to",
+              "offset": "PT13.8S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 138000000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.2957251
+            },
+            {
+              "word": "talk",
+              "offset": "PT13.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 138800000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.7961161
+            },
+            {
+              "word": "about",
+              "offset": "PT14.04S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 140400000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.95901173
+            },
+            {
+              "word": "talking",
+              "offset": "PT14.24S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 142400000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.9617627
+            },
+            {
+              "word": "into",
+              "offset": "PT14.68S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 146800000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.89008236
+            },
+            {
+              "word": "the",
+              "offset": "PT14.88S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 148800000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.97784346
+            },
+            {
+              "word": "void",
+              "offset": "PT15S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 150000000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.9204989
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "I've",
+              "offset": "PT6.44S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 64400000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "done",
+              "offset": "PT6.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 66400000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "such",
+              "offset": "PT6.88S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 68800000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "an",
+              "offset": "PT7.16S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 71600000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "unbelievable",
+              "offset": "PT7.32S",
+              "duration": "PT1S",
+              "offsetInTicks": 73200000.0,
+              "durationInTicks": 10000000.0
+            },
+            {
+              "displayText": "amount",
+              "offset": "PT8.32S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 83200000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "of",
+              "offset": "PT8.8S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 88000000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "talking",
+              "offset": "PT9.04S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 90400000.0,
+              "durationInTicks": 5200000.0
+            },
+            {
+              "displayText": "to",
+              "offset": "PT9.56S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 95600000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "a",
+              "offset": "PT9.72S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 97200000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "microphone",
+              "offset": "PT9.76S",
+              "duration": "PT0.84S",
+              "offsetInTicks": 97600000.0,
+              "durationInTicks": 8400000.0
+            },
+            {
+              "displayText": "for",
+              "offset": "PT10.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 106400000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "testing",
+              "offset": "PT10.88S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 108800000.0,
+              "durationInTicks": 5600000.0
+            },
+            {
+              "displayText": "AI",
+              "offset": "PT11.52S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 115200000.0,
+              "durationInTicks": 4000000.0
+            },
+            {
+              "displayText": "to",
+              "offset": "PT12.48S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 124800000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "if",
+              "offset": "PT13.2S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 132000000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "you",
+              "offset": "PT13.44S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 134400000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "want",
+              "offset": "PT13.64S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 136400000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "to",
+              "offset": "PT13.8S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 138000000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "talk",
+              "offset": "PT13.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 138800000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "about",
+              "offset": "PT14.04S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 140400000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "talking",
+              "offset": "PT14.24S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 142400000.0,
+              "durationInTicks": 4400000.0
+            },
+            {
+              "displayText": "into",
+              "offset": "PT14.68S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 146800000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "the",
+              "offset": "PT14.88S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 148800000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "void.",
+              "offset": "PT15S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 150000000.0,
+              "durationInTicks": 5200000.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

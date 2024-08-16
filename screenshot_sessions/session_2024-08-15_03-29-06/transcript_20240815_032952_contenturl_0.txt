@@ -1,0 +1,4 @@
+Speaker 1 (PT0.48S): Hello.
+Speaker 2 (PT1.4S): This is a test once again.
+Speaker 2 (PT3.2S): This is once again a test.
+Speaker 1 (PT5.68S): Hello, how are you doing?

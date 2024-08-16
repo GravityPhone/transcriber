@@ -1,0 +1,1871 @@
+{
+  "source": "https://daytranscriber.blob.core.windows.net/audio-recordings/output.wav?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-08-16T16%3A53%3A42Z&st=2024-08-10T08%3A53%3A42Z&spr=https%2Chttp&sig=Pttd6BmGyCFm%2FRx1rQ5dtdtFjY%2BUFWmkgsnR5zVPzK8%3D",
+  "timestamp": "2024-08-15T05:45:18Z",
+  "durationInTicks": 537700000,
+  "duration": "PT53.77S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "and now it's recording and screenshot sessions over here and when i hit control C so it'll the frequency of you the frequency of you taking screenshots is that a variable somewhere it is it is it's just ten seconds that was a somewhere where i didn't have a good solution let's turn that way up for our testing purposes like sure ten every ten seconds eventually you know what i mean but maybe thirty forty seconds oh OK and i'll tell you why it's just because we want to be able to look at data on our API see if GPT is recognizing it",
+      "itn": "and now it's recording and screenshot sessions over here and when i hit control C so it'll the frequency of you the frequency of you taking screenshots is that a variable somewhere it is it is it's just 10 seconds that was a somewhere where i didn't have a good solution let's turn that way up for our testing purposes like sure 10 every 10 seconds eventually you know what i mean but maybe 3040 seconds oh OK and i'll tell you why it's just because we want to be able to look at data on our API see if GPT is recognizing it",
+      "maskedITN": "And now it's recording and screenshot sessions over here and when I hit control C so it'll the frequency of. You the frequency of you taking screenshots Is that a variable somewhere It is It is It's just 10 seconds That was a somewhere where I didn't have a good solution Let's turn that way up for our testing purposes Like sure 10 every 10 seconds eventually you know what I mean But maybe 3040 seconds Oh, OK. And I'll tell you why It's just because we want to be able to look at data on our API see if GPT is recognizing it",
+      "display": "And now it's recording and screenshot sessions over here and when I hit control C so it'll the frequency of. You the frequency of you taking screenshots? Is that a variable somewhere? It is. It is. It's just 10 seconds. That was a somewhere where I didn't have a good solution. Let's turn that way up for our testing purposes. Like, sure, 10 every 10 seconds eventually, you know what I mean? But maybe 3040 seconds? Oh, OK. And I'll tell you why. It's just because we want to be able to look at data on our API, see if GPT is recognizing it."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.72S",
+      "duration": "PT15.68S",
+      "offsetInTicks": 7200000.0,
+      "durationInTicks": 156800000.0,
+      "nBest": [
+        {
+          "confidence": 0.77558714,
+          "lexical": "and now it's recording and screenshot sessions over here and when i hit control C so it'll the frequency of",
+          "itn": "and now it's recording and screenshot sessions over here and when i hit control C so it'll the frequency of",
+          "maskedITN": "And now it's recording and screenshot sessions over here and when I hit control C so it'll the frequency of.",
+          "display": "And now it's recording and screenshot sessions over here and when I hit control C so it'll the frequency of.",
+          "words": [
+            {
+              "word": "and",
+              "offset": "PT0.72S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 7200000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.84647
+            },
+            {
+              "word": "now",
+              "offset": "PT0.84S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 8400000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.96002465
+            },
+            {
+              "word": "it's",
+              "offset": "PT1S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 10000000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.8949407
+            },
+            {
+              "word": "recording",
+              "offset": "PT1.12S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 11200000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.64146423
+            },
+            {
+              "word": "and",
+              "offset": "PT3.48S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 34800000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.59603786
+            },
+            {
+              "word": "screenshot",
+              "offset": "PT4.84S",
+              "duration": "PT0.92S",
+              "offsetInTicks": 48400000.0,
+              "durationInTicks": 9200000.0,
+              "confidence": 0.6376585
+            },
+            {
+              "word": "sessions",
+              "offset": "PT5.76S",
+              "duration": "PT1S",
+              "offsetInTicks": 57600000.0,
+              "durationInTicks": 10000000.0,
+              "confidence": 0.92798257
+            },
+            {
+              "word": "over",
+              "offset": "PT6.8S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 68000000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.9623435
+            },
+            {
+              "word": "here",
+              "offset": "PT7.08S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 70800000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.97759277
+            },
+            {
+              "word": "and",
+              "offset": "PT10.52S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 105200000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.9755917
+            },
+            {
+              "word": "when",
+              "offset": "PT11.36S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 113600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.9793633
+            },
+            {
+              "word": "i",
+              "offset": "PT11.64S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 116400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.97913355
+            },
+            {
+              "word": "hit",
+              "offset": "PT11.76S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 117600000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.9506562
+            },
+            {
+              "word": "control",
+              "offset": "PT12S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 120000000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.68284166
+            },
+            {
+              "word": "C",
+              "offset": "PT12.52S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 125200000.0,
+              "durationInTicks": 5600000.0,
+              "confidence": 0.7921026
+            },
+            {
+              "word": "so",
+              "offset": "PT13.08S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 130800000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.60028034
+            },
+            {
+              "word": "it'll",
+              "offset": "PT15.44S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 154400000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.7720868
+            },
+            {
+              "word": "the",
+              "offset": "PT15.88S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 158800000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.14929579
+            },
+            {
+              "word": "frequency",
+              "offset": "PT15.96S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 159600000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.47658488
+            },
+            {
+              "word": "of",
+              "offset": "PT16.32S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 163200000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.70929176
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "And",
+              "offset": "PT0.72S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 7200000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "now",
+              "offset": "PT0.84S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 8400000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "it's",
+              "offset": "PT1S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 10000000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "recording",
+              "offset": "PT1.12S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 11200000.0,
+              "durationInTicks": 4000000.0
+            },
+            {
+              "displayText": "and",
+              "offset": "PT3.48S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 34800000.0,
+              "durationInTicks": 4000000.0
+            },
+            {
+              "displayText": "screenshot",
+              "offset": "PT4.84S",
+              "duration": "PT0.92S",
+              "offsetInTicks": 48400000.0,
+              "durationInTicks": 9200000.0
+            },
+            {
+              "displayText": "sessions",
+              "offset": "PT5.76S",
+              "duration": "PT1S",
+              "offsetInTicks": 57600000.0,
+              "durationInTicks": 10000000.0
+            },
+            {
+              "displayText": "over",
+              "offset": "PT6.8S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 68000000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "here",
+              "offset": "PT7.08S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 70800000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "and",
+              "offset": "PT10.52S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 105200000.0,
+              "durationInTicks": 6800000.0
+            },
+            {
+              "displayText": "when",
+              "offset": "PT11.36S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 113600000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "I",
+              "offset": "PT11.64S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 116400000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "hit",
+              "offset": "PT11.76S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 117600000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "control",
+              "offset": "PT12S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 120000000.0,
+              "durationInTicks": 5200000.0
+            },
+            {
+              "displayText": "C",
+              "offset": "PT12.52S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 125200000.0,
+              "durationInTicks": 5600000.0
+            },
+            {
+              "displayText": "so",
+              "offset": "PT13.08S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 130800000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "it'll",
+              "offset": "PT15.44S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 154400000.0,
+              "durationInTicks": 4400000.0
+            },
+            {
+              "displayText": "the",
+              "offset": "PT15.88S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 158800000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "frequency",
+              "offset": "PT15.96S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 159600000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "displayText": "of.",
+              "offset": "PT16.32S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 163200000.0,
+              "durationInTicks": 800000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT17.52S",
+      "duration": "PT1.68S",
+      "offsetInTicks": 175200000.0,
+      "durationInTicks": 16800000.0,
+      "nBest": [
+        {
+          "confidence": 0.8227969,
+          "lexical": "you the frequency of you taking screenshots",
+          "itn": "you the frequency of you taking screenshots",
+          "maskedITN": "You the frequency of you taking screenshots",
+          "display": "You the frequency of you taking screenshots?",
+          "words": [
+            {
+              "word": "you",
+              "offset": "PT17.52S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 175200000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.62467915
+            },
+            {
+              "word": "the",
+              "offset": "PT17.64S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 176400000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.5514843
+            },
+            {
+              "word": "frequency",
+              "offset": "PT17.72S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 177200000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9272541
+            },
+            {
+              "word": "of",
+              "offset": "PT18.2S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 182000000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9640703
+            },
+            {
+              "word": "you",
+              "offset": "PT18.32S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 183200000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.9195809
+            },
+            {
+              "word": "taking",
+              "offset": "PT18.44S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 184400000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.9407535
+            },
+            {
+              "word": "screenshots",
+              "offset": "PT18.8S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 188000000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.83175576
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "You",
+              "offset": "PT17.52S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 175200000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "the",
+              "offset": "PT17.64S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 176400000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "frequency",
+              "offset": "PT17.72S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 177200000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "of",
+              "offset": "PT18.2S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 182000000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "you",
+              "offset": "PT18.32S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 183200000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "taking",
+              "offset": "PT18.44S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 184400000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "screenshots?",
+              "offset": "PT18.8S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 188000000.0,
+              "durationInTicks": 4000000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT19.36S",
+      "duration": "PT1.2S",
+      "offsetInTicks": 193600000.0,
+      "durationInTicks": 12000000.0,
+      "nBest": [
+        {
+          "confidence": 0.7861283,
+          "lexical": "is that a variable somewhere",
+          "itn": "is that a variable somewhere",
+          "maskedITN": "Is that a variable somewhere",
+          "display": "Is that a variable somewhere?",
+          "words": [
+            {
+              "word": "is",
+              "offset": "PT19.36S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 193600000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.7244113
+            },
+            {
+              "word": "that",
+              "offset": "PT19.48S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 194800000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.8273719
+            },
+            {
+              "word": "a",
+              "offset": "PT19.68S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 196800000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.90764654
+            },
+            {
+              "word": "variable",
+              "offset": "PT19.72S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 197200000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.9140722
+            },
+            {
+              "word": "somewhere",
+              "offset": "PT20.28S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 202800000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.5571396
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Is",
+              "offset": "PT19.36S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 193600000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "that",
+              "offset": "PT19.48S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 194800000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "a",
+              "offset": "PT19.68S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 196800000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "variable",
+              "offset": "PT19.72S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 197200000.0,
+              "durationInTicks": 5200000.0
+            },
+            {
+              "displayText": "somewhere?",
+              "offset": "PT20.28S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 202800000.0,
+              "durationInTicks": 2800000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT20.56S",
+      "duration": "PT0.32S",
+      "offsetInTicks": 205600000.0,
+      "durationInTicks": 3200000.0,
+      "nBest": [
+        {
+          "confidence": 0.6714795,
+          "lexical": "it is",
+          "itn": "it is",
+          "maskedITN": "It is",
+          "display": "It is.",
+          "words": [
+            {
+              "word": "it",
+              "offset": "PT20.56S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 205600000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.67192686
+            },
+            {
+              "word": "is",
+              "offset": "PT20.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 206400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.6710322
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "It",
+              "offset": "PT20.56S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 205600000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "is.",
+              "offset": "PT20.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 206400000.0,
+              "durationInTicks": 2400000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT20.96S",
+      "duration": "PT0.44S",
+      "offsetInTicks": 209600000.0,
+      "durationInTicks": 4400000.0,
+      "nBest": [
+        {
+          "confidence": 0.752722,
+          "lexical": "it is",
+          "itn": "it is",
+          "maskedITN": "It is",
+          "display": "It is.",
+          "words": [
+            {
+              "word": "it",
+              "offset": "PT20.96S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 209600000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.82287866
+            },
+            {
+              "word": "is",
+              "offset": "PT21.12S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 211200000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.68256545
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "It",
+              "offset": "PT20.96S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 209600000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "is.",
+              "offset": "PT21.12S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 211200000.0,
+              "durationInTicks": 2800000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT22.64S",
+      "duration": "PT1.52S",
+      "offsetInTicks": 226400000.0,
+      "durationInTicks": 15200000.0,
+      "nBest": [
+        {
+          "confidence": 0.8823861,
+          "lexical": "it's just ten seconds",
+          "itn": "it's just 10 seconds",
+          "maskedITN": "It's just 10 seconds",
+          "display": "It's just 10 seconds.",
+          "words": [
+            {
+              "word": "it's",
+              "offset": "PT22.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 226400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.62464637
+            },
+            {
+              "word": "just",
+              "offset": "PT22.88S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 228800000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.980858
+            },
+            {
+              "word": "ten",
+              "offset": "PT23.2S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 232000000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.9622427
+            },
+            {
+              "word": "seconds",
+              "offset": "PT23.52S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 235200000.0,
+              "durationInTicks": 6400000.0,
+              "confidence": 0.96179736
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "It's",
+              "offset": "PT22.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 226400000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "just",
+              "offset": "PT22.88S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 228800000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "10",
+              "offset": "PT23.2S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 232000000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "seconds.",
+              "offset": "PT23.52S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 235200000.0,
+              "durationInTicks": 6400000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT24.24S",
+      "duration": "PT3.64S",
+      "offsetInTicks": 242400000.0,
+      "durationInTicks": 36400000.0,
+      "nBest": [
+        {
+          "confidence": 0.8935607,
+          "lexical": "that was a somewhere where i didn't have a good solution",
+          "itn": "that was a somewhere where i didn't have a good solution",
+          "maskedITN": "That was a somewhere where I didn't have a good solution",
+          "display": "That was a somewhere where I didn't have a good solution.",
+          "words": [
+            {
+              "word": "that",
+              "offset": "PT24.24S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 242400000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.97438204
+            },
+            {
+              "word": "was",
+              "offset": "PT24.6S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 246000000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.9754321
+            },
+            {
+              "word": "a",
+              "offset": "PT24.96S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 249600000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.20167893
+            },
+            {
+              "word": "somewhere",
+              "offset": "PT25.64S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 256400000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.89615744
+            },
+            {
+              "word": "where",
+              "offset": "PT26.16S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 261600000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.9753509
+            },
+            {
+              "word": "i",
+              "offset": "PT26.4S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 264000000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.977688
+            },
+            {
+              "word": "didn't",
+              "offset": "PT26.48S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 264800000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.9675803
+            },
+            {
+              "word": "have",
+              "offset": "PT26.76S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 267600000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.97826403
+            },
+            {
+              "word": "a",
+              "offset": "PT26.92S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 269200000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.96259254
+            },
+            {
+              "word": "good",
+              "offset": "PT26.96S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 269600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.97312003
+            },
+            {
+              "word": "solution",
+              "offset": "PT27.24S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 272400000.0,
+              "durationInTicks": 6400000.0,
+              "confidence": 0.94692117
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "That",
+              "offset": "PT24.24S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 242400000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "displayText": "was",
+              "offset": "PT24.6S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 246000000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "displayText": "a",
+              "offset": "PT24.96S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 249600000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "somewhere",
+              "offset": "PT25.64S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 256400000.0,
+              "durationInTicks": 5200000.0
+            },
+            {
+              "displayText": "where",
+              "offset": "PT26.16S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 261600000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "I",
+              "offset": "PT26.4S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 264000000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "didn't",
+              "offset": "PT26.48S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 264800000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "have",
+              "offset": "PT26.76S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 267600000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "a",
+              "offset": "PT26.92S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 269200000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "good",
+              "offset": "PT26.96S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 269600000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "solution.",
+              "offset": "PT27.24S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 272400000.0,
+              "durationInTicks": 6400000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT28.64S",
+      "duration": "PT3.36S",
+      "offsetInTicks": 286400000.0,
+      "durationInTicks": 33600000.0,
+      "nBest": [
+        {
+          "confidence": 0.90552366,
+          "lexical": "let's turn that way up for our testing purposes",
+          "itn": "let's turn that way up for our testing purposes",
+          "maskedITN": "Let's turn that way up for our testing purposes",
+          "display": "Let's turn that way up for our testing purposes.",
+          "words": [
+            {
+              "word": "let's",
+              "offset": "PT28.64S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 286400000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.84872186
+            },
+            {
+              "word": "turn",
+              "offset": "PT28.96S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 289600000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.9443632
+            },
+            {
+              "word": "that",
+              "offset": "PT29.28S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 292800000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.94963324
+            },
+            {
+              "word": "way",
+              "offset": "PT29.6S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 296000000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9568836
+            },
+            {
+              "word": "up",
+              "offset": "PT30.08S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 300800000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.6900579
+            },
+            {
+              "word": "for",
+              "offset": "PT30.32S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 303200000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.97098184
+            },
+            {
+              "word": "our",
+              "offset": "PT30.64S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 306400000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.9598979
+            },
+            {
+              "word": "testing",
+              "offset": "PT30.84S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 308400000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9229076
+            },
+            {
+              "word": "purposes",
+              "offset": "PT31.32S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 313200000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.9062658
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Let's",
+              "offset": "PT28.64S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 286400000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "turn",
+              "offset": "PT28.96S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 289600000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "that",
+              "offset": "PT29.28S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 292800000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "way",
+              "offset": "PT29.6S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 296000000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "up",
+              "offset": "PT30.08S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 300800000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "for",
+              "offset": "PT30.32S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 303200000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "our",
+              "offset": "PT30.64S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 306400000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "testing",
+              "offset": "PT30.84S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 308400000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "purposes.",
+              "offset": "PT31.32S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 313200000.0,
+              "durationInTicks": 6800000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT32.84S",
+      "duration": "PT5.56S",
+      "offsetInTicks": 328400000.0,
+      "durationInTicks": 55600000.0,
+      "nBest": [
+        {
+          "confidence": 0.83947605,
+          "lexical": "like sure ten every ten seconds eventually you know what i mean",
+          "itn": "like sure 10 every 10 seconds eventually you know what i mean",
+          "maskedITN": "Like sure 10 every 10 seconds eventually you know what I mean",
+          "display": "Like, sure, 10 every 10 seconds eventually, you know what I mean?",
+          "words": [
+            {
+              "word": "like",
+              "offset": "PT32.84S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 328400000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.85054
+            },
+            {
+              "word": "sure",
+              "offset": "PT34.48S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 344800000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.7387515
+            },
+            {
+              "word": "ten",
+              "offset": "PT34.76S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 347600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.33296037
+            },
+            {
+              "word": "every",
+              "offset": "PT35.08S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 350800000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.74810946
+            },
+            {
+              "word": "ten",
+              "offset": "PT35.32S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 353200000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.900187
+            },
+            {
+              "word": "seconds",
+              "offset": "PT35.52S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 355200000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.89836586
+            },
+            {
+              "word": "eventually",
+              "offset": "PT36.48S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 364800000.0,
+              "durationInTicks": 6400000.0,
+              "confidence": 0.93447256
+            },
+            {
+              "word": "you",
+              "offset": "PT37.76S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 377600000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.77929
+            },
+            {
+              "word": "know",
+              "offset": "PT37.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 378400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9698387
+            },
+            {
+              "word": "what",
+              "offset": "PT37.96S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 379600000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.96691203
+            },
+            {
+              "word": "i",
+              "offset": "PT38.12S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 381200000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.9789261
+            },
+            {
+              "word": "mean",
+              "offset": "PT38.16S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 381600000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.97535896
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Like,",
+              "offset": "PT32.84S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 328400000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "sure,",
+              "offset": "PT34.48S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 344800000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "10",
+              "offset": "PT34.76S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 347600000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "every",
+              "offset": "PT35.08S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 350800000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "10",
+              "offset": "PT35.32S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 353200000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "seconds",
+              "offset": "PT35.52S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 355200000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "eventually,",
+              "offset": "PT36.48S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 364800000.0,
+              "durationInTicks": 6400000.0
+            },
+            {
+              "displayText": "you",
+              "offset": "PT37.76S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 377600000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "know",
+              "offset": "PT37.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 378400000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "what",
+              "offset": "PT37.96S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 379600000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "I",
+              "offset": "PT38.12S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 381200000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "mean?",
+              "offset": "PT38.16S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 381600000.0,
+              "durationInTicks": 2400000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT38.4S",
+      "duration": "PT3S",
+      "offsetInTicks": 384000000.0,
+      "durationInTicks": 30000000.0,
+      "nBest": [
+        {
+          "confidence": 0.8761317,
+          "lexical": "but maybe thirty forty seconds",
+          "itn": "but maybe 3040 seconds",
+          "maskedITN": "But maybe 3040 seconds",
+          "display": "But maybe 3040 seconds?",
+          "words": [
+            {
+              "word": "but",
+              "offset": "PT38.4S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 384000000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.9704944
+            },
+            {
+              "word": "maybe",
+              "offset": "PT39.92S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 399200000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.6803449
+            },
+            {
+              "word": "thirty",
+              "offset": "PT40.28S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 402800000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.9416815
+            },
+            {
+              "word": "forty",
+              "offset": "PT40.72S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 407200000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.8531532
+            },
+            {
+              "word": "seconds",
+              "offset": "PT41.08S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 410800000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.9349845
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "But",
+              "offset": "PT38.4S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 384000000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "maybe",
+              "offset": "PT39.92S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 399200000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "3040",
+              "offset": "PT40.28S",
+              "duration": "PT0.8S",
+              "offsetInTicks": 402800000.0,
+              "durationInTicks": 8000000.0
+            },
+            {
+              "displayText": "seconds?",
+              "offset": "PT41.08S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 410800000.0,
+              "durationInTicks": 3200000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT41.76S",
+      "duration": "PT0.28S",
+      "offsetInTicks": 417600000.0,
+      "durationInTicks": 2800000.0,
+      "nBest": [
+        {
+          "confidence": 0.5913036,
+          "lexical": "oh OK",
+          "itn": "oh OK",
+          "maskedITN": "Oh, OK.",
+          "display": "Oh, OK.",
+          "words": [
+            {
+              "word": "oh",
+              "offset": "PT41.76S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 417600000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.34372205
+            },
+            {
+              "word": "OK",
+              "offset": "PT41.8S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 418000000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.83888507
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Oh,",
+              "offset": "PT41.76S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 417600000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "OK.",
+              "offset": "PT41.8S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 418000000.0,
+              "durationInTicks": 2400000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT44.24S",
+      "duration": "PT0.8S",
+      "offsetInTicks": 442400000.0,
+      "durationInTicks": 8000000.0,
+      "nBest": [
+        {
+          "confidence": 0.88887054,
+          "lexical": "and i'll tell you why",
+          "itn": "and i'll tell you why",
+          "maskedITN": "And I'll tell you why",
+          "display": "And I'll tell you why.",
+          "words": [
+            {
+              "word": "and",
+              "offset": "PT44.24S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 442400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.6779358
+            },
+            {
+              "word": "i'll",
+              "offset": "PT44.36S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 443600000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.87606174
+            },
+            {
+              "word": "tell",
+              "offset": "PT44.48S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 444800000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.9416088
+            },
+            {
+              "word": "you",
+              "offset": "PT44.64S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 446400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.96922696
+            },
+            {
+              "word": "why",
+              "offset": "PT44.76S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 447600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.9795195
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "And",
+              "offset": "PT44.24S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 442400000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "I'll",
+              "offset": "PT44.36S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 443600000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "tell",
+              "offset": "PT44.48S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 444800000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "you",
+              "offset": "PT44.64S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 446400000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "why.",
+              "offset": "PT44.76S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 447600000.0,
+              "durationInTicks": 2800000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT45.04S",
+      "duration": "PT8.6S",
+      "offsetInTicks": 450400000.0,
+      "durationInTicks": 86000000.0,
+      "nBest": [
+        {
+          "confidence": 0.7266727,
+          "lexical": "it's just because we want to be able to look at data on our API see if GPT is recognizing it",
+          "itn": "it's just because we want to be able to look at data on our API see if GPT is recognizing it",
+          "maskedITN": "It's just because we want to be able to look at data on our API see if GPT is recognizing it",
+          "display": "It's just because we want to be able to look at data on our API, see if GPT is recognizing it.",
+          "words": [
+            {
+              "word": "it's",
+              "offset": "PT45.04S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 450400000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.737566
+            },
+            {
+              "word": "just",
+              "offset": "PT45.2S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 452000000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.9658016
+            },
+            {
+              "word": "because",
+              "offset": "PT45.4S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 454000000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.1796436
+            },
+            {
+              "word": "we",
+              "offset": "PT46.36S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 463600000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.6504495
+            },
+            {
+              "word": "want",
+              "offset": "PT46.52S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 465200000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.3923218
+            },
+            {
+              "word": "to",
+              "offset": "PT46.76S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 467600000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.4581127
+            },
+            {
+              "word": "be",
+              "offset": "PT46.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 468400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9793314
+            },
+            {
+              "word": "able",
+              "offset": "PT46.96S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 469600000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.9758387
+            },
+            {
+              "word": "to",
+              "offset": "PT47.2S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 472000000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9781718
+            },
+            {
+              "word": "look",
+              "offset": "PT47.32S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 473200000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.97136104
+            },
+            {
+              "word": "at",
+              "offset": "PT47.76S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 477600000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.8099972
+            },
+            {
+              "word": "data",
+              "offset": "PT49.36S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 493600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.42554
+            },
+            {
+              "word": "on",
+              "offset": "PT49.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 496400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.79548293
+            },
+            {
+              "word": "our",
+              "offset": "PT49.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 498800000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.7760709
+            },
+            {
+              "word": "API",
+              "offset": "PT50.04S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 500400000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.8102335
+            },
+            {
+              "word": "see",
+              "offset": "PT50.52S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 505200000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.7089469
+            },
+            {
+              "word": "if",
+              "offset": "PT50.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 508400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.6995122
+            },
+            {
+              "word": "GPT",
+              "offset": "PT52.24S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 522400000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.43785432
+            },
+            {
+              "word": "is",
+              "offset": "PT52.72S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 527200000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.8298787
+            },
+            {
+              "word": "recognizing",
+              "offset": "PT52.84S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 528400000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.86892796
+            },
+            {
+              "word": "it",
+              "offset": "PT53.52S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 535200000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.8090847
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "It's",
+              "offset": "PT45.04S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 450400000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "just",
+              "offset": "PT45.2S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 452000000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "because",
+              "offset": "PT45.4S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 454000000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "displayText": "we",
+              "offset": "PT46.36S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 463600000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "want",
+              "offset": "PT46.52S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 465200000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "to",
+              "offset": "PT46.76S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 467600000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "be",
+              "offset": "PT46.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 468400000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "able",
+              "offset": "PT46.96S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 469600000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "to",
+              "offset": "PT47.2S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 472000000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "look",
+              "offset": "PT47.32S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 473200000.0,
+              "durationInTicks": 4400000.0
+            },
+            {
+              "displayText": "at",
+              "offset": "PT47.76S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 477600000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "data",
+              "offset": "PT49.36S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 493600000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "on",
+              "offset": "PT49.64S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 496400000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "our",
+              "offset": "PT49.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 498800000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "API,",
+              "offset": "PT50.04S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 500400000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "see",
+              "offset": "PT50.52S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 505200000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "if",
+              "offset": "PT50.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 508400000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "GPT",
+              "offset": "PT52.24S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 522400000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "is",
+              "offset": "PT52.72S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 527200000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "recognizing",
+              "offset": "PT52.84S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 528400000.0,
+              "durationInTicks": 6800000.0
+            },
+            {
+              "displayText": "it.",
+              "offset": "PT53.52S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 535200000.0,
+              "durationInTicks": 1200000.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

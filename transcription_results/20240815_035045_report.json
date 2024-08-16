@@ -1,0 +1,10 @@
+{
+  "successfulTranscriptionsCount": 1,
+  "failedTranscriptionsCount": 0,
+  "details": [
+    {
+      "source": "https://daytranscriber.blob.core.windows.net/audio-recordings/output.wav?sv=2022-11-02\u0026ss=bfqt\u0026srt=sco\u0026sp=rwdlacupiytfx\u0026se=2024-08-16T16%3A53%3A42Z\u0026st=2024-08-10T08%3A53%3A42Z\u0026spr=https%2Chttp\u0026sig=Pttd6BmGyCFm%2FRx1rQ5dtdtFjY%2BUFWmkgsnR5zVPzK8%3D",
+      "status": "Succeeded"
+    }
+  ]
+}

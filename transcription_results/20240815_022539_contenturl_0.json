@@ -1,0 +1,263 @@
+{
+  "source": "https://daytranscriber.blob.core.windows.net/audio-recordings/output.wav?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-08-16T16%3A53%3A42Z&st=2024-08-10T08%3A53%3A42Z&spr=https%2Chttp&sig=Pttd6BmGyCFm%2FRx1rQ5dtdtFjY%2BUFWmkgsnR5zVPzK8%3D",
+  "timestamp": "2024-08-15T06:25:25Z",
+  "durationInTicks": 153900000,
+  "duration": "PT15.39S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "hello i'm testing the script it's a pretty cool script still testing",
+      "itn": "hello i'm testing the script it's a pretty cool script still testing",
+      "maskedITN": "Hello I'm testing the script It's a pretty cool script Still testing",
+      "display": "Hello I'm testing the script. It's a pretty cool script. Still testing."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.28S",
+      "duration": "PT1.72S",
+      "offsetInTicks": 12800000.0,
+      "durationInTicks": 17200000.0,
+      "nBest": [
+        {
+          "confidence": 0.8728465,
+          "lexical": "hello i'm testing the script",
+          "itn": "hello i'm testing the script",
+          "maskedITN": "Hello I'm testing the script",
+          "display": "Hello I'm testing the script.",
+          "words": [
+            {
+              "word": "hello",
+              "offset": "PT1.28S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 12800000.0,
+              "durationInTicks": 6000000.0,
+              "confidence": 0.8334247
+            },
+            {
+              "word": "i'm",
+              "offset": "PT1.88S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 18800000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.96866345
+            },
+            {
+              "word": "testing",
+              "offset": "PT2S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 20000000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.9287211
+            },
+            {
+              "word": "the",
+              "offset": "PT2.44S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 24400000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.65585876
+            },
+            {
+              "word": "script",
+              "offset": "PT2.52S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 25200000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9775644
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Hello",
+              "offset": "PT1.28S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 12800000.0,
+              "durationInTicks": 6000000.0
+            },
+            {
+              "displayText": "I'm",
+              "offset": "PT1.88S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 18800000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "testing",
+              "offset": "PT2S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 20000000.0,
+              "durationInTicks": 4400000.0
+            },
+            {
+              "displayText": "the",
+              "offset": "PT2.44S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 24400000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "script.",
+              "offset": "PT2.52S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 25200000.0,
+              "durationInTicks": 4800000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3S",
+      "duration": "PT1.16S",
+      "offsetInTicks": 30000000.0,
+      "durationInTicks": 11600000.0,
+      "nBest": [
+        {
+          "confidence": 0.85919833,
+          "lexical": "it's a pretty cool script",
+          "itn": "it's a pretty cool script",
+          "maskedITN": "It's a pretty cool script",
+          "display": "It's a pretty cool script.",
+          "words": [
+            {
+              "word": "it's",
+              "offset": "PT3S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 30000000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.6489977
+            },
+            {
+              "word": "a",
+              "offset": "PT3.2S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 32000000.0,
+              "durationInTicks": 400000.0,
+              "confidence": 0.76525736
+            },
+            {
+              "word": "pretty",
+              "offset": "PT3.24S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 32400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.95421815
+            },
+            {
+              "word": "cool",
+              "offset": "PT3.48S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 34800000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.9645465
+            },
+            {
+              "word": "script",
+              "offset": "PT3.72S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 37200000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.96297187
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "It's",
+              "offset": "PT3S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 30000000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "a",
+              "offset": "PT3.2S",
+              "duration": "PT0.04S",
+              "offsetInTicks": 32000000.0,
+              "durationInTicks": 400000.0
+            },
+            {
+              "displayText": "pretty",
+              "offset": "PT3.24S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 32400000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "cool",
+              "offset": "PT3.48S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 34800000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "script.",
+              "offset": "PT3.72S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 37200000.0,
+              "durationInTicks": 4400000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11.06S",
+      "duration": "PT1S",
+      "offsetInTicks": 110600000.0,
+      "durationInTicks": 10000000.0,
+      "nBest": [
+        {
+          "confidence": 0.9016752,
+          "lexical": "still testing",
+          "itn": "still testing",
+          "maskedITN": "Still testing",
+          "display": "Still testing.",
+          "words": [
+            {
+              "word": "still",
+              "offset": "PT11.06S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 110600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.8677029
+            },
+            {
+              "word": "testing",
+              "offset": "PT11.34S",
+              "duration": "PT0.72S",
+              "offsetInTicks": 113400000.0,
+              "durationInTicks": 7200000.0,
+              "confidence": 0.93564755
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Still",
+              "offset": "PT11.06S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 110600000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "testing.",
+              "offset": "PT11.34S",
+              "duration": "PT0.72S",
+              "offsetInTicks": 113400000.0,
+              "durationInTicks": 7200000.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

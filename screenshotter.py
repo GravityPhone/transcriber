@@ -80,7 +80,7 @@ def main():
     try:
         while True:
             take_screenshot(session_folder, selected_monitors)
-            time.sleep(10)
+            time.sleep(40)
     except KeyboardInterrupt:
         print("\nScreenshot capture stopped.")
 

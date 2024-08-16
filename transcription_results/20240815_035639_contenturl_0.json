@@ -1,0 +1,428 @@
+{
+  "source": "https://daytranscriber.blob.core.windows.net/audio-recordings/output.wav?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-08-16T16%3A53%3A42Z&st=2024-08-10T08%3A53%3A42Z&spr=https%2Chttp&sig=Pttd6BmGyCFm%2FRx1rQ5dtdtFjY%2BUFWmkgsnR5zVPzK8%3D",
+  "timestamp": "2024-08-15T07:56:25Z",
+  "durationInTicks": 144800000,
+  "duration": "PT14.48S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "this is a test and we're just gonna be yadda yadda yadda i'm talking about different kinds of soda that you can drink",
+      "itn": "this is a test and we're just gonna be yadda yadda yadda i'm talking about different kinds of soda that you can drink",
+      "maskedITN": "This is a test and we're just gonna be yadda yadda yadda I'm talking about different Kinds of soda that you can drink.",
+      "display": "This is a test and we're just gonna be yadda yadda yadda. I'm talking about different. Kinds of soda that you can drink."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.68S",
+      "duration": "PT4.6S",
+      "offsetInTicks": 16800000.0,
+      "durationInTicks": 46000000.0,
+      "nBest": [
+        {
+          "confidence": 0.791823,
+          "lexical": "this is a test and we're just gonna be yadda yadda yadda",
+          "itn": "this is a test and we're just gonna be yadda yadda yadda",
+          "maskedITN": "This is a test and we're just gonna be yadda yadda yadda",
+          "display": "This is a test and we're just gonna be yadda yadda yadda.",
+          "words": [
+            {
+              "word": "this",
+              "offset": "PT1.68S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 16800000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.95333695
+            },
+            {
+              "word": "is",
+              "offset": "PT1.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 18800000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.9713637
+            },
+            {
+              "word": "a",
+              "offset": "PT2.04S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 20400000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.95993555
+            },
+            {
+              "word": "test",
+              "offset": "PT2.12S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 21200000.0,
+              "durationInTicks": 6000000.0,
+              "confidence": 0.9742106
+            },
+            {
+              "word": "and",
+              "offset": "PT2.72S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 27200000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.9782722
+            },
+            {
+              "word": "we're",
+              "offset": "PT3.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 31600000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9749107
+            },
+            {
+              "word": "just",
+              "offset": "PT3.28S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 32800000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.9775138
+            },
+            {
+              "word": "gonna",
+              "offset": "PT3.6S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 36000000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.2212856
+            },
+            {
+              "word": "be",
+              "offset": "PT3.8S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 38000000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.6602083
+            },
+            {
+              "word": "yadda",
+              "offset": "PT5S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 50000000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.48978782
+            },
+            {
+              "word": "yadda",
+              "offset": "PT5.36S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 53600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.6746392
+            },
+            {
+              "word": "yadda",
+              "offset": "PT5.64S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 56400000.0,
+              "durationInTicks": 6400000.0,
+              "confidence": 0.66641206
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "This",
+              "offset": "PT1.68S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 16800000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "is",
+              "offset": "PT1.88S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 18800000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "a",
+              "offset": "PT2.04S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 20400000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "test",
+              "offset": "PT2.12S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 21200000.0,
+              "durationInTicks": 6000000.0
+            },
+            {
+              "displayText": "and",
+              "offset": "PT2.72S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 27200000.0,
+              "durationInTicks": 4400000.0
+            },
+            {
+              "displayText": "we're",
+              "offset": "PT3.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 31600000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "just",
+              "offset": "PT3.28S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 32800000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "gonna",
+              "offset": "PT3.6S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 36000000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "be",
+              "offset": "PT3.8S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 38000000.0,
+              "durationInTicks": 6800000.0
+            },
+            {
+              "displayText": "yadda",
+              "offset": "PT5S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 50000000.0,
+              "durationInTicks": 3200000.0
+            },
+            {
+              "displayText": "yadda",
+              "offset": "PT5.36S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 53600000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "displayText": "yadda.",
+              "offset": "PT5.64S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 56400000.0,
+              "durationInTicks": 6400000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.16S",
+      "duration": "PT1.64S",
+      "offsetInTicks": 71600000.0,
+      "durationInTicks": 16400000.0,
+      "nBest": [
+        {
+          "confidence": 0.84255403,
+          "lexical": "i'm talking about different",
+          "itn": "i'm talking about different",
+          "maskedITN": "I'm talking about different",
+          "display": "I'm talking about different.",
+          "words": [
+            {
+              "word": "i'm",
+              "offset": "PT7.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 71600000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.45428652
+            },
+            {
+              "word": "talking",
+              "offset": "PT7.28S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 72800000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9658274
+            },
+            {
+              "word": "about",
+              "offset": "PT7.76S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 77600000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.9805108
+            },
+            {
+              "word": "different",
+              "offset": "PT8.32S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 83200000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9695914
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "I'm",
+              "offset": "PT7.16S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 71600000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "displayText": "talking",
+              "offset": "PT7.28S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 72800000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "about",
+              "offset": "PT7.76S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 77600000.0,
+              "durationInTicks": 5200000.0
+            },
+            {
+              "displayText": "different.",
+              "offset": "PT8.32S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 83200000.0,
+              "durationInTicks": 4800000.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT9.12S",
+      "duration": "PT2.04S",
+      "offsetInTicks": 91200000.0,
+      "durationInTicks": 20400000.0,
+      "nBest": [
+        {
+          "confidence": 0.96047485,
+          "lexical": "kinds of soda that you can drink",
+          "itn": "kinds of soda that you can drink",
+          "maskedITN": "Kinds of soda that you can drink.",
+          "display": "Kinds of soda that you can drink.",
+          "words": [
+            {
+              "word": "kinds",
+              "offset": "PT9.12S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 91200000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.9676125
+            },
+            {
+              "word": "of",
+              "offset": "PT9.52S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 95200000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.9679979
+            },
+            {
+              "word": "soda",
+              "offset": "PT9.6S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 96000000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.9094962
+            },
+            {
+              "word": "that",
+              "offset": "PT10.08S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 100800000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.9736796
+            },
+            {
+              "word": "you",
+              "offset": "PT10.28S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 102800000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.9790647
+            },
+            {
+              "word": "can",
+              "offset": "PT10.44S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 104400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.9808456
+            },
+            {
+              "word": "drink",
+              "offset": "PT10.68S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 106800000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.94462734
+            }
+          ],
+          "displayWords": [
+            {
+              "displayText": "Kinds",
+              "offset": "PT9.12S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 91200000.0,
+              "durationInTicks": 4000000.0
+            },
+            {
+              "displayText": "of",
+              "offset": "PT9.52S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 95200000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "displayText": "soda",
+              "offset": "PT9.6S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 96000000.0,
+              "durationInTicks": 4800000.0
+            },
+            {
+              "displayText": "that",
+              "offset": "PT10.08S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 100800000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "displayText": "you",
+              "offset": "PT10.28S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 102800000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "displayText": "can",
+              "offset": "PT10.44S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 104400000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "displayText": "drink.",
+              "offset": "PT10.68S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 106800000.0,
+              "durationInTicks": 4800000.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
